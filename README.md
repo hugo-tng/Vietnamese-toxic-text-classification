@@ -1,6 +1,6 @@
 # Vietnamese Toxic Text Classification
 
-> **Lưu ý:** Dự án này được tiếp tục phát triển từ repository : [Link Repo Gốc](https://github.com/hugo-tng/NLP_Final_Project/tree/main/Vietnamese_text_sumarization).
+> **Lưu ý:** Dự án này được tiếp tục phát triển từ repository : [Link Repo Gốc](https://github.com/hugo-tng/NLP_Final_Project/tree/main/Toxic_text_classification_vi).
 
 ---
 
